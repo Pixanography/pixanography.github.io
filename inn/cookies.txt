@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rhuturajmirashi.wixsite.com	TRUE	/inns	FALSE	1999999999	svSession	d6ec88dae9382aa1f8961eebecb83aae700ef9f6e74bc4556eca38dd9646d5d1e0eb9f51a25d765e27b6f8cf03b938621e60994d53964e647acf431e4f798bcd6df6ba350c376ec604d8f89f430cb29a03eda2a501898bfa25a5eeac10c4c2cd
+rhuturajmirashi.wixsite.com	TRUE	/inns	FALSE	1999999999	TS01188a53	01f0e931314cd9c72b2de1e84b4f0cd2b8242b11220594edf1ac5a2291742e0d8c6e8b3805d43f03710e916264c83bb0ffb488696e
+rhuturajmirashi.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss#varnish=miss#dc#desc=42"
+rhuturajmirashi.wixsite.com	TRUE	/	FALSE	1999999999	hs	-541838148
+rhuturajmirashi.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1586589753|lV5Vn5BqdzFl
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e931314cd9c72b2de1e84b4f0cd2b8242b11220594edf1ac5a2291742e0d8c6e8b3805d43f03710e916264c83bb0ffb488696e
+
